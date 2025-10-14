@@ -1,2 +1,1 @@
-# Web-Development-Course
-This repository contains all my daily learnings, projects, and notes from the Full Stack Web Development course.
+This repository documents my complete journey of learning Full Stack Web Development through the course on YouTube — from HTML, CSS, JavaScript to full-stack projects.
