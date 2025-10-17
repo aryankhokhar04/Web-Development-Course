@@ -1,1 +1,3 @@
-This repository documents my complete journey of learning Full Stack Web Development through the course on YouTube — from HTML, CSS, JavaScript to full-stack projects.
+**📚 Full Stack Web Development Journey**
+
+This repository **documents my complete learning journey** of Full Stack Web Development — from **HTML, CSS, JavaScript** to **full-stack projects** — following a structured course. 🚀💻
